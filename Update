@@ -1,0 +1,9 @@
+We can use the muscle sensor for multiple muscle groups (positions) around the arm adn get data out for a particular set of arm movements (finger orientations)
+then we can wirte a code that would take multiple channels of this dataset and create a Data enrty that corressponds to a single hand movement using myo data
+from multiple positions. You know what it means. 
+
+Movement                    MyoPostion1          MyoPostion2        MyoPostion3        ( each position values to be recorded separately )
+Close Fist                     Values               Values              Values        (To be given by the code)
+
+Once all the data is set we can compare it to already existing datasets of prosthetic arms in production for accuracy, speed, durablity and ergonomics.
+The paper would be written on the above statement 
